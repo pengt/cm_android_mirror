@@ -2,6 +2,27 @@
 <manifest>
   <remote fetch="git://github.com/CyanogenMod/" name="github"/>
   <default remote="github" revision="master" sync-j="4"/>
+  <project name="android_kernel_samsung_smdk4412"/>
+  <project name="android_device_samsung_i9300"/>
+  <project name="android_kernel_samsung_msm8660-common"/>
+  <project name="android_external_mesa3d"/>
+  <project name="android_packages_inputmethods_OpenWnn"/>
+  <project name="android_external_clang"/>
+  <project name="android_external_ping6"/>
+  <project name="android_device_samsung_quincy-common"/>
+  <project name="android_device_samsung_i9100g"/>
+  <project name="android_kernel_samsung_t1"/>
+  <project name="android_device_asus_tf300t"/>
+  <project name="android_kernel_asus_tf300t"/>
+  <project name="android_hardware_atheros_wlan"/>
+  <project name="android_packages_apps_Apollo"/>
+  <project name="android_device_samsung_msm8660-common"/>
+  <project name="android_device_samsung_skyrocket"/>
+  <project name="android_device_samsung_quincyatt"/>
+  <project name="htc-kernel-doubleshot"/>
+  <project name="android_device_samsung_n7000"/>
+  <project name="android_device_samsung_p1n"/>
+  <project name="android_device_samsung_p1l"/>
   <project name="android_kernel_acer_t20-common"/>
   <project name="android_device_acer_t20-common"/>
   <project name="android_device_acer_a500"/>
@@ -103,9 +124,11 @@
   <project name="android_device_semc_coconut"/>
   <project name="android_device_semc_zeus-common"/>
   <project name="android_device_semc_mogami-common"/>
+  <project name="android_device_samsung_hercules"/>
   <project name="android_hardware_ti_omap3-compat"/>
   <project name="android_device_samsung_galaxys2att"/>
   <project name="android_device_lge_e730"/>
+  <project name="android_device_htc_doubleshot"/>
   <project name="tools_repo"/>
   <project name="android_sdk"/>
   <project name="android_packages_wallpapers_MusicVisualization"/>
