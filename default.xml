@@ -79,6 +79,7 @@
   <project name="android_device_lge_e720"/>
   <project name="android_device_lge_e730"/>
   <project name="android_device_lge_e739"/>
+  <project name="android_device_lge_iprj-common"/>
   <project name="android_device_lge_p500"/>
   <project name="android_device_lge_p920"/>
   <project name="android_device_lge_p925"/>
@@ -87,6 +88,7 @@
   <project name="android_device_lge_p990"/>
   <project name="android_device_lge_p999"/>
   <project name="android_device_lge_star-common"/>
+  <project name="android_device_lge_su640"/>
   <project name="android_device_lge_thunderc"/>
   <project name="android_device_lge_thunderg"/>
   <project name="android_device_lge_v909"/>
@@ -153,6 +155,9 @@
   <project name="android_device_samsung_p1l"/>
   <project name="android_device_samsung_p1n"/>
   <project name="android_device_samsung_p3"/>
+  <project name="android_device_samsung_p3100"/>
+  <project name="android_device_samsung_p3110"/>
+  <project name="android_device_samsung_p3113"/>
   <project name="android_device_samsung_p4"/>
   <project name="android_device_samsung_p4-common"/>
   <project name="android_device_samsung_p4tmo"/>
@@ -160,6 +165,9 @@
   <project name="android_device_samsung_p4wifi"/>
   <project name="android_device_samsung_p5"/>
   <project name="android_device_samsung_p5-common"/>
+  <project name="android_device_samsung_p5100"/>
+  <project name="android_device_samsung_p5110"/>
+  <project name="android_device_samsung_p5113"/>
   <project name="android_device_samsung_p5wifi"/>
   <project name="android_device_samsung_p7100"/>
   <project name="android_device_samsung_quincy-common"/>
@@ -398,6 +406,7 @@
   <project name="android_hardware_libhardware"/>
   <project name="android_hardware_libhardware_legacy"/>
   <project name="android_hardware_msm7k"/>
+  <project name="android_hardware_qcom_audio"/>
   <project name="android_hardware_qcom_camera"/>
   <project name="android_hardware_qcom_display"/>
   <project name="android_hardware_qcom_gps"/>
@@ -423,6 +432,7 @@
   <project name="android_kernel_samsung_aries"/>
   <project name="android_kernel_samsung_crespo"/>
   <project name="android_kernel_samsung_d2"/>
+  <project name="android_kernel_samsung_espresso10"/>
   <project name="android_kernel_samsung_galaxytab-cdma"/>
   <project name="android_kernel_samsung_msm8660-common"/>
   <project name="android_kernel_samsung_msm8660-q1"/>
@@ -575,6 +585,7 @@
   <project name="CMBalance"/>
   <project name="CMStatsServer"/>
   <project name="device_htc_marvel"/>
+  <project name="device_htc_ville"/>
   <project name="geeksphone-kernel-zero"/>
   <project name="GetCM"/>
   <project name="hp-kernel-tenderloin"/>
@@ -600,6 +611,7 @@
   <project name="samsung-kernel-galaxys"/>
   <project name="samsung-kernel-hercules"/>
   <project name="semc-kernel-msm7x30"/>
+  <project name="sony-kernel-msm8660"/>
   <project name="themes-platform-vendor-tmobile-apps-ThemeChooser"/>
   <project name="tools_repo"/>
   <project name="zte-kernel-msm7x27"/>
