@@ -286,6 +286,7 @@
   <project name="android_external_jsr305"/>
   <project name="android_external_junit"/>
   <project name="android_external_kernel-headers"/>
+  <project name="android_external_kexec-tools"/>
   <project name="android_external_libexif"/>
   <project name="android_external_libffi"/>
   <project name="android_external_libgsm"/>
@@ -425,6 +426,7 @@
   <project name="android_hardware_ti_wlan"/>
   <project name="android_hardware_ti_wpan"/>
   <project name="android_kernel_acer_t20-common"/>
+  <project name="android_kernel_asus_grouper"/>
   <project name="android_kernel_asus_tf101"/>
   <project name="android_kernel_asus_tf201"/>
   <project name="android_kernel_asus_tf300t"/>
